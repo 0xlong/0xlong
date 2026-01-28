@@ -13,7 +13,6 @@ Currently deep in **Across Protocol** live data streaming, multi-chain event ext
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM-8A8A8A?style=for-the-badge&logo=ethereum&logoColor=white)
-![Superset/Preset]([https://superset.apache.org/](https://superset.apache.org/img/superset-logo-horiz-dark.svg))
 ## 🚀 Current Focus
 
 - Real-time & historical analytics for **Across Protocol** bridge (live streaming + decoded events)
