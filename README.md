@@ -12,6 +12,7 @@ Currently deep in **Across Protocol** live data streaming, multi-chain event ext
 ![DuckDB](https://img.shields.io/badge/DuckDB-FF6F00?style=for-the-badge&logo=duckdb&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 ![EVM](https://img.shields.io/badge/EVM-8A8A8A?style=for-the-badge&logo=ethereum&logoColor=white)
 ## 🚀 Current Focus
 
