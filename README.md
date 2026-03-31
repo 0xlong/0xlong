@@ -23,6 +23,8 @@ Currently deep in **Across Protocol** live data streaming, multi-chain event ext
 - Enriching transactions with LLM context (RAG-style)
 
 ## Featured Projects
+- **[paxos_analytics](https://github.com/0xlong/paxos_analytics)**  
+  Full analytics pipeline & dashboard for PyUSD Paxos stablecoin
 
 - **[across-analytics](https://github.com/0xlong/across-analytics)**  
   Comprehensive analytics pipeline & dashboards for Across Bridge protocol
