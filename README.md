@@ -44,6 +44,10 @@ Currently deep in **Across Protocol** live data streaming, multi-chain event ext
 - **[ilv_holders_bigquery](https://github.com/0xlong/ilv_holders_bigquery)**  
   BigQuery-based analysis of token holders & positions
 
+- **[Illuvium Social Media data strategy](https://medium.com/@longin2018/ilv-marketing-strategy-using-quantitative-approach-7ac316756fad)**  
+  Quantitative analysis of social media data to improve marketing strategy of Illuvium web3 project
+  
+
 ## Tech Stack & Tools
 
 - **Languages**: Python • SQL  
