@@ -38,6 +38,9 @@ Currently deep in **Across Protocol** live data streaming, multi-chain event ext
 - **[blockchain_transactions_context](https://github.com/0xlong/blockchain_transactions_context)**  
   Web app: extract last tx for token + enrich context with LLM
 
+- **[Dune Analytics Dashboards](https://dune.com/Jan)**  
+  Dune Analytics dashboards for on-chain analysis of various protocols
+
 - **[ilv_holders_bigquery](https://github.com/0xlong/ilv_holders_bigquery)**  
   BigQuery-based analysis of token holders & positions
 
