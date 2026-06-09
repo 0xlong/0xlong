@@ -23,6 +23,12 @@ Currently deep in **Across Protocol** live data streaming, multi-chain event ext
 - Enriching transactions with LLM context (RAG-style)
 
 ## Featured Projects
+- **[Insurance Pricing & Underwriting Copilot]([https://github.com/0xlong/paxos_analytics](https://github.com/0xlong/reinsurance_claims_analysis))**  
+  Full-stack insurance data engineering and AI project with data pipeline and an interactive underwriting tool
+
+- **[Swiss ZEV Energy Forecaster](https://github.com/0xlong/Swiss-ZEV-Energy-Forecaster)**  
+  Data pipeline and AI forecasting model for Swiss commercial energy systems
+
 - **[paxos_analytics](https://github.com/0xlong/paxos_analytics)**  
   Full analytics pipeline & dashboard for PyUSD Paxos stablecoin
 
